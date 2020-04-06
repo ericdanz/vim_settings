@@ -1,0 +1,11 @@
+set tabstop=2
+set expandtab
+filetype plugin indent on
+set cursorline
+set number
+set softtabstop=2
+syntax on 
+" source ~/vim_settings/monokai.vim
+set autoindent
+
+
